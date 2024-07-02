@@ -1,5 +1,5 @@
 # Domain Adaptation for Unsupervised Cancer Detection (DAUD): An application for skin Whole Slides Images from an interhospital dataset
-![Approach](Pipeline.pdf)
+![Approach](pipeline.png)
 
 ### Code associated to the paper accepted at  [27th INTERNATIONAL CONFERENCE ON MEDICAL IMAGE COMPUTING AND COMPUTER ASSISTED INTERVENTION](https://conferences.miccai.org/2024/)
 
