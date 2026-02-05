@@ -109,8 +109,6 @@ class data_partition_A_B_ood:
         # Train
         self.A_train = self.datatrain(self.data, self.A_test, 'A', unsupervised)
         self.B_train = self.datatrain(self.data, self.B_test, 'B', unsupervised)
-
-        # TODO: en alguna parte creo que los train/test hospitales están mezclados!!!!
             
     def _read_data(self, CSV_file):
         data = pd.read_csv(CSV_file, delimiter=",")
