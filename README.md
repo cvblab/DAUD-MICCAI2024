@@ -5,7 +5,13 @@
 
 #### Citation
 ~~~
-@article{
+@inproceedings{p2024domain,
+  title={Domain adaptation for unsupervised cancer detection: An application for skin whole slides images from an interhospital dataset},
+  author={P. Garc{\'\i}a-de-la-Puente, Natalia and L{\'o}pez-P{\'e}rez, Miguel and Launet, La{\"e}titia and Naranjo, Valery},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={58--68},
+  year={2024},
+  organization={Springer}
 }
 ~~~
 
